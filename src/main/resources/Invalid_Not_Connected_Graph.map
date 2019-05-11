@@ -1,0 +1,10 @@
+[Map]
+[Continents]
+c2=0
+c1=0
+
+[Territories]
+n1,0,0,c1,n2
+n2,0,0,c1,n1
+n3,0,0,c2,n4
+n4,0,0,c2,n3
